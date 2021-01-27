@@ -27,9 +27,9 @@
 
 menu:
   Trang chủ: / || fas fa-home
-  歸檔: /archives/ || fas fa-archive
-  標籤: /tags/ || fas fa-tags
-  分類: /categories/ || fas fa-folder-open
+  Lưu trữ: /archives/ || fas fa-archive
+  Tags: /tags/ || fas fa-tags
+  Thư mục: /categories/ || fas fa-folder-open
   文檔||fas fa-book:
     - 🚀 快速開始 || /posts/21cfbf15/
     - 📑 主題頁面 || /posts/dc584b87/
